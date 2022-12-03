@@ -1,1 +1,1 @@
-let HOME
+let HOME = 1
