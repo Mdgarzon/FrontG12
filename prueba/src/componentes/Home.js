@@ -1,1 +1,1 @@
-home 
+let HOME
